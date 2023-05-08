@@ -1,0 +1,261 @@
+Collecting anyio==3.6.2
+  Downloading anyio-3.6.2-py3-none-any.whl (80 kB)
+     ---------------------------------------- 0.0/80.6 kB ? eta -:--:--     ---------------------------------------- 80.6/80.6 kB 4.7 MB/s eta 0:00:00
+Requirement already satisfied: argon2-cffi==21.3.0 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 2)) (21.3.0)
+Requirement already satisfied: argon2-cffi-bindings==21.2.0 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 3)) (21.2.0)
+Collecting arrow==1.2.3
+  Downloading arrow-1.2.3-py3-none-any.whl (66 kB)
+     ---------------------------------------- 0.0/66.4 kB ? eta -:--:--     ---------------------------------------- 66.4/66.4 kB 3.7 MB/s eta 0:00:00
+Collecting asttokens==2.2.1
+  Downloading asttokens-2.2.1-py2.py3-none-any.whl (26 kB)
+Collecting attrs==22.2.0
+  Downloading attrs-22.2.0-py3-none-any.whl (60 kB)
+     ---------------------------------------- 0.0/60.0 kB ? eta -:--:--     ---------------------------------------- 60.0/60.0 kB 3.1 MB/s eta 0:00:00
+Collecting Babel==2.12.1
+  Downloading Babel-2.12.1-py3-none-any.whl (10.1 MB)
+     ---------------------------------------- 0.0/10.1 MB ? eta -:--:--     -- ------------------------------------- 0.7/10.1 MB 21.4 MB/s eta 0:00:01     ------- -------------------------------- 1.9/10.1 MB 29.4 MB/s eta 0:00:01     ---------- ----------------------------- 2.7/10.1 MB 21.5 MB/s eta 0:00:01     ------------- -------------------------- 3.4/10.1 MB 19.7 MB/s eta 0:00:01     ------------------ --------------------- 4.6/10.1 MB 21.0 MB/s eta 0:00:01     ------------------------ --------------- 6.2/10.1 MB 20.8 MB/s eta 0:00:01     ----------------------------- ---------- 7.3/10.1 MB 21.3 MB/s eta 0:00:01     --------------------------------- ------ 8.3/10.1 MB 23.1 MB/s eta 0:00:01     ---------------------------------------  9.8/10.1 MB 22.4 MB/s eta 0:00:01     --------------------------------------  10.1/10.1 MB 21.4 MB/s eta 0:00:01     --------------------------------------  10.1/10.1 MB 21.4 MB/s eta 0:00:01     --------------------------------------- 10.1/10.1 MB 18.4 MB/s eta 0:00:00
+Requirement already satisfied: backcall==0.2.0 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 8)) (0.2.0)
+Collecting backports.functools-lru-cache==1.6.4
+  Downloading backports.functools_lru_cache-1.6.4-py2.py3-none-any.whl (5.9 kB)
+Requirement already satisfied: beautifulsoup4==4.12.2 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 10)) (4.12.2)
+Collecting bleach==6.0.0
+  Downloading bleach-6.0.0-py3-none-any.whl (162 kB)
+     ---------------------------------------- 0.0/162.5 kB ? eta -:--:--     -------------------------------------- 162.5/162.5 kB 9.5 MB/s eta 0:00:00
+Requirement already satisfied: brotlipy==0.7.0 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 12)) (0.7.0)
+Requirement already satisfied: certifi==2022.12.7 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 13)) (2022.12.7)
+Requirement already satisfied: cffi==1.15.1 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 14)) (1.15.1)
+Collecting charset-normalizer==3.1.0
+  Downloading charset_normalizer-3.1.0-cp310-cp310-win_amd64.whl (97 kB)
+     ---------------------------------------- 0.0/97.1 kB ? eta -:--:--     ---------------------------------------- 97.1/97.1 kB 5.8 MB/s eta 0:00:00
+Requirement already satisfied: colorama==0.4.6 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 16)) (0.4.6)
+Collecting comm==0.1.3
+  Downloading comm-0.1.3-py3-none-any.whl (6.6 kB)
+Collecting contourpy==1.0.7
+  Downloading contourpy-1.0.7-cp310-cp310-win_amd64.whl (162 kB)
+     ---------------------------------------- 0.0/163.0 kB ? eta -:--:--     ------------------------------------- 163.0/163.0 kB 10.2 MB/s eta 0:00:00
+Collecting cryptography==40.0.2
+  Downloading cryptography-40.0.2-cp36-abi3-win_amd64.whl (2.6 MB)
+     ---------------------------------------- 0.0/2.6 MB ? eta -:--:--     --------------- ------------------------ 1.0/2.6 MB 33.4 MB/s eta 0:00:01     ------------------------------- -------- 2.0/2.6 MB 25.9 MB/s eta 0:00:01     ---------------------------------------  2.6/2.6 MB 20.8 MB/s eta 0:00:01     ---------------------------------------- 2.6/2.6 MB 15.1 MB/s eta 0:00:00
+Requirement already satisfied: cycler==0.11.0 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 20)) (0.11.0)
+Collecting debugpy==1.6.7
+  Downloading debugpy-1.6.7-cp310-cp310-win_amd64.whl (4.8 MB)
+     ---------------------------------------- 0.0/4.8 MB ? eta -:--:--     -------- ------------------------------- 1.1/4.8 MB 33.3 MB/s eta 0:00:01     ----------------- ---------------------- 2.1/4.8 MB 21.8 MB/s eta 0:00:01     -------------------------- ------------- 3.2/4.8 MB 20.5 MB/s eta 0:00:01     ------------------------------------- -- 4.5/4.8 MB 22.0 MB/s eta 0:00:01     ---------------------------------------  4.8/4.8 MB 20.5 MB/s eta 0:00:01     ---------------------------------------- 4.8/4.8 MB 18.1 MB/s eta 0:00:00
+Requirement already satisfied: decorator==5.1.1 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 22)) (5.1.1)
+Requirement already satisfied: defusedxml==0.7.1 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 23)) (0.7.1)
+Requirement already satisfied: entrypoints==0.4 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 24)) (0.4)
+Collecting executing==1.2.0
+  Downloading executing-1.2.0-py2.py3-none-any.whl (24 kB)
+Collecting fastjsonschema==2.16.3
+  Downloading fastjsonschema-2.16.3-py3-none-any.whl (23 kB)
+Collecting flit_core==3.8.0
+  Downloading flit_core-3.8.0-py3-none-any.whl (62 kB)
+     ---------------------------------------- 0.0/62.6 kB ? eta -:--:--     ---------------------------------------- 62.6/62.6 kB 3.5 MB/s eta 0:00:00
+Collecting fonttools==4.39.3
+  Downloading fonttools-4.39.3-py3-none-any.whl (1.0 MB)
+     ---------------------------------------- 0.0/1.0 MB ? eta -:--:--     ---------------------------------------- 1.0/1.0 MB 31.2 MB/s eta 0:00:00
+Collecting fqdn==1.5.1
+  Downloading fqdn-1.5.1-py3-none-any.whl (9.1 kB)
+Requirement already satisfied: idna==3.4 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 30)) (3.4)
+Collecting importlib-metadata==6.6.0
+  Downloading importlib_metadata-6.6.0-py3-none-any.whl (22 kB)
+Collecting importlib-resources==5.12.0
+  Downloading importlib_resources-5.12.0-py3-none-any.whl (36 kB)
+Collecting ipykernel==6.22.0
+  Downloading ipykernel-6.22.0-py3-none-any.whl (149 kB)
+     ---------------------------------------- 0.0/150.0 kB ? eta -:--:--     -------------------------------------- 150.0/150.0 kB 8.7 MB/s eta 0:00:00
+Collecting ipython==8.13.1
+  Downloading ipython-8.13.1-py3-none-any.whl (797 kB)
+     ---------------------------------------- 0.0/797.6 kB ? eta -:--:--     ------------------------------------- 797.6/797.6 kB 25.4 MB/s eta 0:00:00
+Requirement already satisfied: ipython-genutils==0.2.0 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 35)) (0.2.0)
+Collecting ipywidgets==8.0.6
+  Downloading ipywidgets-8.0.6-py3-none-any.whl (138 kB)
+     ---------------------------------------- 0.0/138.3 kB ? eta -:--:--     ---------------------------------------- 138.3/138.3 kB ? eta 0:00:00
+Collecting isoduration==20.11.0
+  Downloading isoduration-20.11.0-py3-none-any.whl (11 kB)
+Collecting jedi==0.18.2
+  Downloading jedi-0.18.2-py2.py3-none-any.whl (1.6 MB)
+     ---------------------------------------- 0.0/1.6 MB ? eta -:--:--     ------------------------------- -------- 1.2/1.6 MB 38.4 MB/s eta 0:00:01     ---------------------------------------- 1.6/1.6 MB 20.0 MB/s eta 0:00:00
+Requirement already satisfied: Jinja2==3.1.2 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 39)) (3.1.2)
+Collecting joblib==1.2.0
+  Downloading joblib-1.2.0-py3-none-any.whl (297 kB)
+     ---------------------------------------- 0.0/298.0 kB ? eta -:--:--     ------------------------------------- 298.0/298.0 kB 18.0 MB/s eta 0:00:00
+Collecting json5==0.9.5
+  Downloading json5-0.9.5-py2.py3-none-any.whl (17 kB)
+Collecting jsonpointer==2.3
+  Downloading jsonpointer-2.3-py2.py3-none-any.whl (7.8 kB)
+Requirement already satisfied: jsonschema==4.17.3 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 43)) (4.17.3)
+Collecting jupyter_client==8.2.0
+  Downloading jupyter_client-8.2.0-py3-none-any.whl (103 kB)
+     ---------------------------------------- 0.0/103.2 kB ? eta -:--:--     -------------------------------------- 103.2/103.2 kB 5.8 MB/s eta 0:00:00
+Requirement already satisfied: jupyter_core==5.3.0 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 45)) (5.3.0)
+Collecting jupyter-events==0.6.3
+  Downloading jupyter_events-0.6.3-py3-none-any.whl (18 kB)
+Collecting jupyter_server==2.5.0
+  Downloading jupyter_server-2.5.0-py3-none-any.whl (366 kB)
+     ---------------------------------------- 0.0/366.8 kB ? eta -:--:--     ------------------------------------- 366.8/366.8 kB 11.5 MB/s eta 0:00:00
+Collecting jupyter_server_terminals==0.4.4
+  Downloading jupyter_server_terminals-0.4.4-py3-none-any.whl (13 kB)
+Requirement already satisfied: jupyterlab==3.5.3 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 49)) (3.5.3)
+Collecting jupyterlab-pygments==0.2.2
+  Downloading jupyterlab_pygments-0.2.2-py2.py3-none-any.whl (21 kB)
+Collecting jupyterlab_server==2.22.1
+  Downloading jupyterlab_server-2.22.1-py3-none-any.whl (57 kB)
+     ---------------------------------------- 0.0/57.0 kB ? eta -:--:--     ---------------------------------------- 57.0/57.0 kB ? eta 0:00:00
+Collecting jupyterlab-widgets==3.0.7
+  Downloading jupyterlab_widgets-3.0.7-py3-none-any.whl (198 kB)
+     ---------------------------------------- 0.0/198.2 kB ? eta -:--:--     ---------------------------------------- 198.2/198.2 kB ? eta 0:00:00
+Requirement already satisfied: kiwisolver==1.4.4 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 53)) (1.4.4)
+Collecting MarkupSafe==2.1.2
+  Downloading MarkupSafe-2.1.2-cp310-cp310-win_amd64.whl (16 kB)
+Requirement already satisfied: matplotlib==3.7.1 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 55)) (3.7.1)
+Requirement already satisfied: matplotlib-inline==0.1.6 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 56)) (0.1.6)
+Collecting mistune==2.0.5
+  Downloading mistune-2.0.5-py2.py3-none-any.whl (24 kB)
+Requirement already satisfied: munkres==1.1.4 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 58)) (1.1.4)
+Collecting nbclassic==0.5.6
+  Downloading nbclassic-0.5.6-py3-none-any.whl (10.0 MB)
+     ---------------------------------------- 0.0/10.0 MB ? eta -:--:--     ----- ---------------------------------- 1.4/10.0 MB 44.2 MB/s eta 0:00:01     --------- ------------------------------ 2.4/10.0 MB 38.0 MB/s eta 0:00:01     -------------- ------------------------- 3.7/10.0 MB 23.7 MB/s eta 0:00:01     ------------------ --------------------- 4.6/10.0 MB 24.2 MB/s eta 0:00:01     ------------------ --------------------- 4.6/10.0 MB 24.2 MB/s eta 0:00:01     ----------------------- ---------------- 6.0/10.0 MB 20.1 MB/s eta 0:00:01     ---------------------------- ----------- 7.0/10.0 MB 22.5 MB/s eta 0:00:01     ------------------------------------- -- 9.3/10.0 MB 22.7 MB/s eta 0:00:01     --------------------------------------  10.0/10.0 MB 22.8 MB/s eta 0:00:01     --------------------------------------  10.0/10.0 MB 22.8 MB/s eta 0:00:01     --------------------------------------- 10.0/10.0 MB 19.4 MB/s eta 0:00:00
+Collecting nbclient==0.7.4
+  Downloading nbclient-0.7.4-py3-none-any.whl (73 kB)
+     ---------------------------------------- 0.0/73.1 kB ? eta -:--:--     ---------------------------------------- 73.1/73.1 kB 3.9 MB/s eta 0:00:00
+Collecting nbconvert==7.3.1
+  Downloading nbconvert-7.3.1-py3-none-any.whl (284 kB)
+     ---------------------------------------- 0.0/284.1 kB ? eta -:--:--     ------------------------------------- 284.1/284.1 kB 17.1 MB/s eta 0:00:00
+Collecting nbformat==5.8.0
+  Downloading nbformat-5.8.0-py3-none-any.whl (77 kB)
+     ---------------------------------------- 0.0/77.4 kB ? eta -:--:--     ---------------------------------------- 77.4/77.4 kB 4.2 MB/s eta 0:00:00
+Requirement already satisfied: nest-asyncio==1.5.6 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 63)) (1.5.6)
+Requirement already satisfied: notebook==6.5.4 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 64)) (6.5.4)
+Collecting notebook_shim==0.2.3
+  Downloading notebook_shim-0.2.3-py3-none-any.whl (13 kB)
+Requirement already satisfied: numpy==1.24.3 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 66)) (1.24.3)
+Collecting packaging==23.1
+  Downloading packaging-23.1-py3-none-any.whl (48 kB)
+     ---------------------------------------- 0.0/48.9 kB ? eta -:--:--     ---------------------------------------- 48.9/48.9 kB ? eta 0:00:00
+Collecting pandas==2.0.1
+  Downloading pandas-2.0.1-cp310-cp310-win_amd64.whl (10.7 MB)
+     ---------------------------------------- 0.0/10.7 MB ? eta -:--:--     ----- ---------------------------------- 1.4/10.7 MB 30.1 MB/s eta 0:00:01     ------- -------------------------------- 2.0/10.7 MB 20.7 MB/s eta 0:00:01     ------------ --------------------------- 3.2/10.7 MB 23.0 MB/s eta 0:00:01     -------------- ------------------------- 3.9/10.7 MB 20.7 MB/s eta 0:00:01     ------------------ --------------------- 5.0/10.7 MB 19.9 MB/s eta 0:00:01     ------------------------ --------------- 6.5/10.7 MB 22.0 MB/s eta 0:00:01     --------------------------- ------------ 7.4/10.7 MB 22.6 MB/s eta 0:00:01     ------------------------------- -------- 8.4/10.7 MB 22.3 MB/s eta 0:00:01     ---------------------------------- ----- 9.3/10.7 MB 19.8 MB/s eta 0:00:01     --------------------------------------  10.6/10.7 MB 20.5 MB/s eta 0:00:01     --------------------------------------  10.6/10.7 MB 20.5 MB/s eta 0:00:01     --------------------------------------- 10.7/10.7 MB 18.2 MB/s eta 0:00:00
+Requirement already satisfied: pandocfilters==1.5.0 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 69)) (1.5.0)
+Requirement already satisfied: parso==0.8.3 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 70)) (0.8.3)
+Collecting patsy==0.5.3
+  Downloading patsy-0.5.3-py2.py3-none-any.whl (233 kB)
+     ---------------------------------------- 0.0/233.8 kB ? eta -:--:--     ------------------------------------- 233.8/233.8 kB 14.0 MB/s eta 0:00:00
+Requirement already satisfied: pickleshare==0.7.5 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 72)) (0.7.5)
+Collecting Pillow==9.5.0
+  Downloading Pillow-9.5.0-cp310-cp310-win_amd64.whl (2.5 MB)
+     ---------------------------------------- 0.0/2.5 MB ? eta -:--:--     ------------------ --------------------- 1.2/2.5 MB 71.7 MB/s eta 0:00:01     ---------------------------------------  2.5/2.5 MB 32.0 MB/s eta 0:00:01     ---------------------------------------- 2.5/2.5 MB 22.9 MB/s eta 0:00:00
+Collecting pip==23.1.2
+  Downloading pip-23.1.2-py3-none-any.whl (2.1 MB)
+     ---------------------------------------- 0.0/2.1 MB ? eta -:--:--     --------------- ------------------------ 0.8/2.1 MB 25.3 MB/s eta 0:00:01     ---------------------------------- ----- 1.8/2.1 MB 22.3 MB/s eta 0:00:01     ---------------------------------------  2.1/2.1 MB 18.6 MB/s eta 0:00:01     ---------------------------------------- 2.1/2.1 MB 13.1 MB/s eta 0:00:00
+Collecting pkgutil_resolve_name==1.3.10
+  Downloading pkgutil_resolve_name-1.3.10-py3-none-any.whl (4.7 kB)
+Collecting platformdirs==3.5.0
+  Downloading platformdirs-3.5.0-py3-none-any.whl (15 kB)
+Requirement already satisfied: ply==3.11 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 77)) (3.11)
+Collecting pooch==1.7.0
+  Downloading pooch-1.7.0-py3-none-any.whl (60 kB)
+     ---------------------------------------- 0.0/60.9 kB ? eta -:--:--     ---------------------------------------- 60.9/60.9 kB 3.4 MB/s eta 0:00:00
+Collecting prometheus-client==0.16.0
+  Downloading prometheus_client-0.16.0-py3-none-any.whl (122 kB)
+     ---------------------------------------- 0.0/122.5 kB ? eta -:--:--     ---------------------------------------- 122.5/122.5 kB ? eta 0:00:00
+Collecting prompt-toolkit==3.0.38
+  Downloading prompt_toolkit-3.0.38-py3-none-any.whl (385 kB)
+     ---------------------------------------- 0.0/385.8 kB ? eta -:--:--     ------------------------------------- 385.8/385.8 kB 25.0 MB/s eta 0:00:00
+Collecting psutil==5.9.5
+  Downloading psutil-5.9.5-cp36-abi3-win_amd64.whl (255 kB)
+     ---------------------------------------- 0.0/255.1 kB ? eta -:--:--     ------------------------------------- 255.1/255.1 kB 15.3 MB/s eta 0:00:00
+Requirement already satisfied: pure-eval==0.2.2 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 82)) (0.2.2)
+Requirement already satisfied: pycparser==2.21 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 83)) (2.21)
+Collecting Pygments==2.15.1
+  Downloading Pygments-2.15.1-py3-none-any.whl (1.1 MB)
+     ---------------------------------------- 0.0/1.1 MB ? eta -:--:--     ------------------------------ --------- 0.9/1.1 MB ? eta -:--:--     ---------------------------------------- 1.1/1.1 MB 18.3 MB/s eta 0:00:00
+Collecting pyOpenSSL==23.1.1
+  Downloading pyOpenSSL-23.1.1-py3-none-any.whl (57 kB)
+     ---------------------------------------- 0.0/57.9 kB ? eta -:--:--     ---------------------------------------- 57.9/57.9 kB 3.0 MB/s eta 0:00:00
+Requirement already satisfied: pyparsing==3.0.9 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 86)) (3.0.9)
+Requirement already satisfied: PyQt5==5.15.7 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 87)) (5.15.7)
+Requirement already satisfied: PyQt5-sip==12.11.0 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 88)) (12.11.0)
+Collecting pyrsistent==0.19.3
+  Downloading pyrsistent-0.19.3-cp310-cp310-win_amd64.whl (62 kB)
+     ---------------------------------------- 0.0/62.7 kB ? eta -:--:--     ---------------------------------------- 62.7/62.7 kB 3.3 MB/s eta 0:00:00
+Requirement already satisfied: PySocks==1.7.1 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 90)) (1.7.1)
+Requirement already satisfied: python-dateutil==2.8.2 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 91)) (2.8.2)
+Collecting python-json-logger==2.0.7
+  Downloading python_json_logger-2.0.7-py3-none-any.whl (8.1 kB)
+Collecting pytz==2023.3
+  Downloading pytz-2023.3-py2.py3-none-any.whl (502 kB)
+     ---------------------------------------- 0.0/502.3 kB ? eta -:--:--     ------------------------------------- 502.3/502.3 kB 32.8 MB/s eta 0:00:00
+Collecting pywin32==304
+  Downloading pywin32-304-cp310-cp310-win_amd64.whl (12.1 MB)
+     ---------------------------------------- 0.0/12.1 MB ? eta -:--:--     ---- ----------------------------------- 1.3/12.1 MB 28.3 MB/s eta 0:00:01     ------ --------------------------------- 2.0/12.1 MB 20.9 MB/s eta 0:00:01     --------- ------------------------------ 2.8/12.1 MB 20.1 MB/s eta 0:00:01     ------------- -------------------------- 4.0/12.1 MB 23.5 MB/s eta 0:00:01     ----------------- ---------------------- 5.3/12.1 MB 22.8 MB/s eta 0:00:01     --------------------- ------------------ 6.6/12.1 MB 25.0 MB/s eta 0:00:01     -------------------------- ------------- 8.1/12.1 MB 24.6 MB/s eta 0:00:01     ----------------------------- ---------- 9.0/12.1 MB 24.0 MB/s eta 0:00:01     ---------------------------------- ---- 10.7/12.1 MB 25.2 MB/s eta 0:00:01     --------------------------------------  12.1/12.1 MB 26.2 MB/s eta 0:00:01     --------------------------------------  12.1/12.1 MB 26.2 MB/s eta 0:00:01     --------------------------------------- 12.1/12.1 MB 21.1 MB/s eta 0:00:00
+Requirement already satisfied: pywinpty==2.0.10 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 95)) (2.0.10)
+Collecting PyYAML==6.0
+  Downloading PyYAML-6.0-cp310-cp310-win_amd64.whl (151 kB)
+     ---------------------------------------- 0.0/151.7 kB ? eta -:--:--     -------------------------------------- 151.7/151.7 kB 8.8 MB/s eta 0:00:00
+Requirement already satisfied: pyzmq==25.0.2 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 97)) (25.0.2)
+Requirement already satisfied: requests==2.29.0 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 98)) (2.29.0)
+Collecting rfc3339-validator==0.1.4
+  Downloading rfc3339_validator-0.1.4-py2.py3-none-any.whl (3.5 kB)
+Collecting rfc3986-validator==0.1.1
+  Downloading rfc3986_validator-0.1.1-py2.py3-none-any.whl (4.2 kB)
+Requirement already satisfied: scikit-learn==1.2.2 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 101)) (1.2.2)
+Requirement already satisfied: scipy==1.10.1 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 102)) (1.10.1)
+Requirement already satisfied: seaborn==0.12.2 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 103)) (0.12.2)
+Collecting Send2Trash==1.8.2
+  Downloading Send2Trash-1.8.2-py3-none-any.whl (18 kB)
+Collecting setuptools==67.7.2
+  Downloading setuptools-67.7.2-py3-none-any.whl (1.1 MB)
+     ---------------------------------------- 0.0/1.1 MB ? eta -:--:--     ---------------------------------------- 1.1/1.1 MB 33.9 MB/s eta 0:00:00
+Collecting sip==6.7.9
+  Downloading sip-6.7.9-cp37-abi3-win_amd64.whl (609 kB)
+     ---------------------------------------- 0.0/609.1 kB ? eta -:--:--     ------------------------------------- 609.1/609.1 kB 39.9 MB/s eta 0:00:00
+Requirement already satisfied: six==1.16.0 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 107)) (1.16.0)
+Collecting sniffio==1.3.0
+  Downloading sniffio-1.3.0-py3-none-any.whl (10 kB)
+Collecting soupsieve==2.3.2.post1
+  Downloading soupsieve-2.3.2.post1-py3-none-any.whl (37 kB)
+Collecting stack-data==0.6.2
+  Downloading stack_data-0.6.2-py3-none-any.whl (24 kB)
+Collecting statsmodels==0.13.5
+  Downloading statsmodels-0.13.5-cp310-cp310-win_amd64.whl (9.1 MB)
+     ---------------------------------------- 0.0/9.1 MB ? eta -:--:--     ------ --------------------------------- 1.4/9.1 MB 45.6 MB/s eta 0:00:01     -------- ------------------------------- 1.9/9.1 MB 24.7 MB/s eta 0:00:01     ----------- ---------------------------- 2.6/9.1 MB 20.7 MB/s eta 0:00:01     ---------------- ----------------------- 3.8/9.1 MB 20.2 MB/s eta 0:00:01     ------------------- -------------------- 4.4/9.1 MB 20.2 MB/s eta 0:00:01     ------------------------ --------------- 5.7/9.1 MB 21.4 MB/s eta 0:00:01     ----------------------------- ---------- 6.7/9.1 MB 21.4 MB/s eta 0:00:01     -------------------------------- ------- 7.3/9.1 MB 22.3 MB/s eta 0:00:01     -------------------------------- ------- 7.3/9.1 MB 22.3 MB/s eta 0:00:01     -------------------------------- ------- 7.3/9.1 MB 22.3 MB/s eta 0:00:01     ------------------------------------ --- 8.3/9.1 MB 16.6 MB/s eta 0:00:01     ---------------------------------------  9.1/9.1 MB 17.2 MB/s eta 0:00:01     ---------------------------------------  9.1/9.1 MB 17.2 MB/s eta 0:00:01     ---------------------------------------- 9.1/9.1 MB 15.4 MB/s eta 0:00:00
+Collecting terminado==0.15.0
+  Downloading terminado-0.15.0-py3-none-any.whl (16 kB)
+Collecting threadpoolctl==3.1.0
+  Downloading threadpoolctl-3.1.0-py3-none-any.whl (14 kB)
+Requirement already satisfied: tinycss2==1.2.1 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 114)) (1.2.1)
+Requirement already satisfied: toml==0.10.2 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 115)) (0.10.2)
+Requirement already satisfied: tomli==2.0.1 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 116)) (2.0.1)
+Collecting tornado==6.3
+  Downloading tornado-6.3-cp38-abi3-win_amd64.whl (427 kB)
+     ---------------------------------------- 0.0/427.9 kB ? eta -:--:--     ------------------------------------- 427.9/427.9 kB 13.1 MB/s eta 0:00:00
+Collecting traitlets==5.9.0
+  Downloading traitlets-5.9.0-py3-none-any.whl (117 kB)
+     ---------------------------------------- 0.0/117.4 kB ? eta -:--:--     ---------------------------------------- 117.4/117.4 kB ? eta 0:00:00
+Requirement already satisfied: typing_extensions==4.5.0 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 119)) (4.5.0)
+Collecting tzdata==2023.3
+  Downloading tzdata-2023.3-py2.py3-none-any.whl (341 kB)
+     ---------------------------------------- 0.0/341.8 kB ? eta -:--:--     ------------------------------------- 341.8/341.8 kB 10.7 MB/s eta 0:00:00
+Collecting unicodedata2==15.0.0
+  Downloading unicodedata2-15.0.0-cp310-cp310-win_amd64.whl (427 kB)
+     ---------------------------------------- 0.0/427.5 kB ? eta -:--:--     ------------------------------------- 427.5/427.5 kB 26.1 MB/s eta 0:00:00
+Collecting uri-template==1.2.0
+  Downloading uri_template-1.2.0-py3-none-any.whl (10 kB)
+Requirement already satisfied: urllib3==1.26.15 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 123)) (1.26.15)
+Collecting wcwidth==0.2.6
+  Downloading wcwidth-0.2.6-py2.py3-none-any.whl (29 kB)
+Collecting webcolors==1.13
+  Downloading webcolors-1.13-py3-none-any.whl (14 kB)
+Requirement already satisfied: webencodings==0.5.1 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 126)) (0.5.1)
+Collecting websocket-client==1.5.1
+  Downloading websocket_client-1.5.1-py3-none-any.whl (55 kB)
+     ---------------------------------------- 0.0/55.9 kB ? eta -:--:--     ---------------------------------------- 55.9/55.9 kB ? eta 0:00:00
+Collecting wheel==0.40.0
+  Downloading wheel-0.40.0-py3-none-any.whl (64 kB)
+     ---------------------------------------- 0.0/64.5 kB ? eta -:--:--     ---------------------------------------- 64.5/64.5 kB 1.8 MB/s eta 0:00:00
+Collecting widgetsnbextension==4.0.7
+  Downloading widgetsnbextension-4.0.7-py3-none-any.whl (2.1 MB)
+     ---------------------------------------- 0.0/2.1 MB ? eta -:--:--     ------------------------ --------------- 1.3/2.1 MB 40.0 MB/s eta 0:00:01     ------------------------------------- -- 2.0/2.1 MB 25.0 MB/s eta 0:00:01     ---------------------------------------- 2.1/2.1 MB 16.8 MB/s eta 0:00:00
+Requirement already satisfied: win-inet-pton==1.1.0 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 130)) (1.1.0)
+Collecting zipp==3.15.0
+  Downloading zipp-3.15.0-py3-none-any.whl (6.8 kB)
