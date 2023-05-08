@@ -44,8 +44,7 @@ Requirement already satisfied: jsonschema==4.17.3 in c:\users\papoun\anaconda3\e
 Requirement already satisfied: jupyter_client==8.2.0 in c:\users\papoun\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 44)) (8.2.0)
 Requirement already satisfied: jupyter_core==5.3.0 in c:\users\papoun\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 45)) (5.3.0)
 Requirement already satisfied: jupyter-events==0.6.3 in c:\users\papoun\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 46)) (0.6.3)
-Collecting jupyter_server==2.5.0 (from -r requirements.txt (line 47))
-  Using cached jupyter_server-2.5.0-py3-none-any.whl (366 kB)
+Requirement already satisfied: jupyter_server==2.5.0 in c:\users\papoun\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 47)) (2.5.0)
 Requirement already satisfied: jupyter_server_terminals==0.4.4 in c:\users\papoun\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 48)) (0.4.4)
 Requirement already satisfied: jupyterlab==3.5.3 in c:\users\papoun\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 49)) (3.5.3)
 Requirement already satisfied: jupyterlab-pygments==0.2.2 in c:\users\papoun\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 50)) (0.2.2)
@@ -130,8 +129,3 @@ Requirement already satisfied: wheel==0.40.0 in c:\users\papoun\anaconda3\envs\o
 Requirement already satisfied: widgetsnbextension==4.0.7 in c:\users\papoun\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 129)) (4.0.7)
 Requirement already satisfied: win-inet-pton==1.1.0 in c:\users\papoun\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 130)) (1.1.0)
 Requirement already satisfied: zipp==3.15.0 in c:\users\papoun\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 131)) (3.15.0)
-Installing collected packages: jupyter_server
-  Attempting uninstall: jupyter_server
-    Found existing installation: jupyter-server 1.23.6
-    Uninstalling jupyter-server-1.23.6:
-      Successfully uninstalled jupyter-server-1.23.6
