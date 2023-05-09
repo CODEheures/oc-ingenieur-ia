@@ -1,212 +1,132 @@
-Collecting anyio==3.6.2
-  Using cached anyio-3.6.2-py3-none-any.whl (80 kB)
+Requirement already satisfied: anyio==3.6.2 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 1)) (3.6.2)
 Requirement already satisfied: argon2-cffi==21.3.0 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 2)) (21.3.0)
 Requirement already satisfied: argon2-cffi-bindings==21.2.0 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 3)) (21.2.0)
-Collecting arrow==1.2.3
-  Using cached arrow-1.2.3-py3-none-any.whl (66 kB)
-Collecting asttokens==2.2.1
-  Using cached asttokens-2.2.1-py2.py3-none-any.whl (26 kB)
-Collecting attrs==22.2.0
-  Using cached attrs-22.2.0-py3-none-any.whl (60 kB)
-Collecting Babel==2.12.1
-  Using cached Babel-2.12.1-py3-none-any.whl (10.1 MB)
+Requirement already satisfied: arrow==1.2.3 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 4)) (1.2.3)
+Requirement already satisfied: asttokens==2.2.1 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 5)) (2.2.1)
+Requirement already satisfied: attrs==22.2.0 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 6)) (22.2.0)
+Requirement already satisfied: Babel==2.12.1 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 7)) (2.12.1)
 Requirement already satisfied: backcall==0.2.0 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 8)) (0.2.0)
-Collecting backports.functools-lru-cache==1.6.4
-  Using cached backports.functools_lru_cache-1.6.4-py2.py3-none-any.whl (5.9 kB)
+Requirement already satisfied: backports.functools-lru-cache==1.6.4 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 9)) (1.6.4)
 Requirement already satisfied: beautifulsoup4==4.12.2 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 10)) (4.12.2)
-Collecting bleach==6.0.0
-  Using cached bleach-6.0.0-py3-none-any.whl (162 kB)
+Requirement already satisfied: bleach==6.0.0 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 11)) (6.0.0)
 Requirement already satisfied: brotlipy==0.7.0 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 12)) (0.7.0)
 Requirement already satisfied: certifi==2022.12.7 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 13)) (2022.12.7)
 Requirement already satisfied: cffi==1.15.1 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 14)) (1.15.1)
-Collecting charset-normalizer==3.1.0
-  Using cached charset_normalizer-3.1.0-cp310-cp310-win_amd64.whl (97 kB)
+Requirement already satisfied: charset-normalizer==3.1.0 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 15)) (3.1.0)
 Requirement already satisfied: colorama==0.4.6 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 16)) (0.4.6)
-Collecting comm==0.1.3
-  Using cached comm-0.1.3-py3-none-any.whl (6.6 kB)
-Collecting contourpy==1.0.7
-  Using cached contourpy-1.0.7-cp310-cp310-win_amd64.whl (162 kB)
-Collecting cryptography==40.0.2
-  Using cached cryptography-40.0.2-cp36-abi3-win_amd64.whl (2.6 MB)
+Requirement already satisfied: comm==0.1.3 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 17)) (0.1.3)
+Requirement already satisfied: contourpy==1.0.7 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 18)) (1.0.7)
+Requirement already satisfied: cryptography==40.0.2 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 19)) (40.0.2)
 Requirement already satisfied: cycler==0.11.0 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 20)) (0.11.0)
-Collecting debugpy==1.6.7
-  Using cached debugpy-1.6.7-cp310-cp310-win_amd64.whl (4.8 MB)
+Requirement already satisfied: debugpy==1.6.7 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 21)) (1.6.7)
 Requirement already satisfied: decorator==5.1.1 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 22)) (5.1.1)
 Requirement already satisfied: defusedxml==0.7.1 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 23)) (0.7.1)
 Requirement already satisfied: entrypoints==0.4 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 24)) (0.4)
-Collecting executing==1.2.0
-  Using cached executing-1.2.0-py2.py3-none-any.whl (24 kB)
-Collecting fastjsonschema==2.16.3
-  Using cached fastjsonschema-2.16.3-py3-none-any.whl (23 kB)
-Collecting flit_core==3.8.0
-  Using cached flit_core-3.8.0-py3-none-any.whl (62 kB)
-Collecting fonttools==4.39.3
-  Using cached fonttools-4.39.3-py3-none-any.whl (1.0 MB)
-Collecting fqdn==1.5.1
-  Using cached fqdn-1.5.1-py3-none-any.whl (9.1 kB)
+Requirement already satisfied: executing==1.2.0 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 25)) (1.2.0)
+Requirement already satisfied: fastjsonschema==2.16.3 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 26)) (2.16.3)
+Requirement already satisfied: flit_core==3.8.0 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 27)) (3.8.0)
+Requirement already satisfied: fonttools==4.39.3 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 28)) (4.39.3)
+Requirement already satisfied: fqdn==1.5.1 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 29)) (1.5.1)
 Requirement already satisfied: idna==3.4 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 30)) (3.4)
-Collecting importlib-metadata==6.6.0
-  Using cached importlib_metadata-6.6.0-py3-none-any.whl (22 kB)
-Collecting importlib-resources==5.12.0
-  Using cached importlib_resources-5.12.0-py3-none-any.whl (36 kB)
-Collecting ipykernel==6.22.0
-  Using cached ipykernel-6.22.0-py3-none-any.whl (149 kB)
-Collecting ipython==8.13.1
-  Using cached ipython-8.13.1-py3-none-any.whl (797 kB)
+Requirement already satisfied: importlib-metadata==6.6.0 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 31)) (6.6.0)
+Requirement already satisfied: importlib-resources==5.12.0 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 32)) (5.12.0)
+Requirement already satisfied: ipykernel==6.22.0 in c:\users\gagno\appdata\roaming\python\python310\site-packages (from -r requirements.txt (line 33)) (6.22.0)
+Requirement already satisfied: ipython==8.13.1 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 34)) (8.13.1)
 Requirement already satisfied: ipython-genutils==0.2.0 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 35)) (0.2.0)
-Collecting ipywidgets==8.0.6
-  Using cached ipywidgets-8.0.6-py3-none-any.whl (138 kB)
-Collecting isoduration==20.11.0
-  Using cached isoduration-20.11.0-py3-none-any.whl (11 kB)
-Collecting jedi==0.18.2
-  Using cached jedi-0.18.2-py2.py3-none-any.whl (1.6 MB)
+Requirement already satisfied: ipywidgets==8.0.6 in c:\users\gagno\appdata\roaming\python\python310\site-packages (from -r requirements.txt (line 36)) (8.0.6)
+Requirement already satisfied: isoduration==20.11.0 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 37)) (20.11.0)
+Requirement already satisfied: jedi==0.18.2 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 38)) (0.18.2)
 Requirement already satisfied: Jinja2==3.1.2 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 39)) (3.1.2)
-Collecting joblib==1.2.0
-  Using cached joblib-1.2.0-py3-none-any.whl (297 kB)
-Collecting json5==0.9.5
-  Using cached json5-0.9.5-py2.py3-none-any.whl (17 kB)
-Collecting jsonpointer==2.3
-  Using cached jsonpointer-2.3-py2.py3-none-any.whl (7.8 kB)
+Requirement already satisfied: joblib==1.2.0 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 40)) (1.2.0)
+Requirement already satisfied: json5==0.9.5 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 41)) (0.9.5)
+Requirement already satisfied: jsonpointer==2.3 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 42)) (2.3)
 Requirement already satisfied: jsonschema==4.17.3 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 43)) (4.17.3)
-Collecting jupyter_client==8.2.0
-  Using cached jupyter_client-8.2.0-py3-none-any.whl (103 kB)
+Requirement already satisfied: jupyter_client==8.2.0 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 44)) (8.2.0)
 Requirement already satisfied: jupyter_core==5.3.0 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 45)) (5.3.0)
-Collecting jupyter-events==0.6.3
-  Using cached jupyter_events-0.6.3-py3-none-any.whl (18 kB)
-Collecting jupyter_server==2.5.0
-  Using cached jupyter_server-2.5.0-py3-none-any.whl (366 kB)
-Collecting jupyter_server_terminals==0.4.4
-  Using cached jupyter_server_terminals-0.4.4-py3-none-any.whl (13 kB)
+Requirement already satisfied: jupyter-events==0.6.3 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 46)) (0.6.3)
+Requirement already satisfied: jupyter_server==2.5.0 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 47)) (2.5.0)
+Requirement already satisfied: jupyter_server_terminals==0.4.4 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 48)) (0.4.4)
 Requirement already satisfied: jupyterlab==3.5.3 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 49)) (3.5.3)
-Collecting jupyterlab-pygments==0.2.2
-  Using cached jupyterlab_pygments-0.2.2-py2.py3-none-any.whl (21 kB)
-Collecting jupyterlab_server==2.22.1
-  Using cached jupyterlab_server-2.22.1-py3-none-any.whl (57 kB)
-Collecting jupyterlab-widgets==3.0.7
-  Using cached jupyterlab_widgets-3.0.7-py3-none-any.whl (198 kB)
+Requirement already satisfied: jupyterlab-pygments==0.2.2 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 50)) (0.2.2)
+Requirement already satisfied: jupyterlab_server==2.22.1 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 51)) (2.22.1)
+Requirement already satisfied: jupyterlab-widgets==3.0.7 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 52)) (3.0.7)
 Requirement already satisfied: kiwisolver==1.4.4 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 53)) (1.4.4)
-Collecting MarkupSafe==2.1.2
-  Using cached MarkupSafe-2.1.2-cp310-cp310-win_amd64.whl (16 kB)
+Requirement already satisfied: MarkupSafe==2.1.2 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 54)) (2.1.2)
 Requirement already satisfied: matplotlib==3.7.1 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 55)) (3.7.1)
 Requirement already satisfied: matplotlib-inline==0.1.6 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 56)) (0.1.6)
-Collecting mistune==2.0.5
-  Using cached mistune-2.0.5-py2.py3-none-any.whl (24 kB)
+Requirement already satisfied: mistune==2.0.5 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 57)) (2.0.5)
 Requirement already satisfied: munkres==1.1.4 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 58)) (1.1.4)
-Collecting nbclassic==0.5.6
-  Using cached nbclassic-0.5.6-py3-none-any.whl (10.0 MB)
-Collecting nbclient==0.7.4
-  Using cached nbclient-0.7.4-py3-none-any.whl (73 kB)
-Collecting nbconvert==7.3.1
-  Using cached nbconvert-7.3.1-py3-none-any.whl (284 kB)
-Collecting nbformat==5.8.0
-  Using cached nbformat-5.8.0-py3-none-any.whl (77 kB)
+Requirement already satisfied: nbclassic==0.5.6 in c:\users\gagno\appdata\roaming\python\python310\site-packages (from -r requirements.txt (line 59)) (0.5.6)
+Requirement already satisfied: nbclient==0.7.4 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 60)) (0.7.4)
+Requirement already satisfied: nbconvert==7.3.1 in c:\users\gagno\appdata\roaming\python\python310\site-packages (from -r requirements.txt (line 61)) (7.3.1)
+Requirement already satisfied: nbformat==5.8.0 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 62)) (5.8.0)
 Requirement already satisfied: nest-asyncio==1.5.6 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 63)) (1.5.6)
 Requirement already satisfied: notebook==6.5.4 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 64)) (6.5.4)
-Collecting notebook_shim==0.2.3
-  Using cached notebook_shim-0.2.3-py3-none-any.whl (13 kB)
+Requirement already satisfied: notebook_shim==0.2.3 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 65)) (0.2.3)
 Requirement already satisfied: numpy==1.24.3 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 66)) (1.24.3)
-Collecting packaging==23.1
-  Using cached packaging-23.1-py3-none-any.whl (48 kB)
-Collecting pandas==2.0.1
-  Using cached pandas-2.0.1-cp310-cp310-win_amd64.whl (10.7 MB)
+Requirement already satisfied: packaging==23.1 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 67)) (23.1)
+Requirement already satisfied: pandas==2.0.1 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 68)) (2.0.1)
 Requirement already satisfied: pandocfilters==1.5.0 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 69)) (1.5.0)
 Requirement already satisfied: parso==0.8.3 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 70)) (0.8.3)
-Collecting patsy==0.5.3
-  Using cached patsy-0.5.3-py2.py3-none-any.whl (233 kB)
+Requirement already satisfied: patsy==0.5.3 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 71)) (0.5.3)
 Requirement already satisfied: pickleshare==0.7.5 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 72)) (0.7.5)
-Collecting Pillow==9.5.0
-  Using cached Pillow-9.5.0-cp310-cp310-win_amd64.whl (2.5 MB)
-Collecting pip==23.1.2
-  Using cached pip-23.1.2-py3-none-any.whl (2.1 MB)
-Collecting pkgutil_resolve_name==1.3.10
-  Using cached pkgutil_resolve_name-1.3.10-py3-none-any.whl (4.7 kB)
-Collecting platformdirs==3.5.0
-  Using cached platformdirs-3.5.0-py3-none-any.whl (15 kB)
+Requirement already satisfied: Pillow==9.5.0 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 73)) (9.5.0)
+Requirement already satisfied: pip==23.1.2 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 74)) (23.1.2)
+Requirement already satisfied: pkgutil_resolve_name==1.3.10 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 75)) (1.3.10)
+Requirement already satisfied: platformdirs==3.5.0 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 76)) (3.5.0)
 Requirement already satisfied: ply==3.11 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 77)) (3.11)
-Collecting pooch==1.7.0
-  Using cached pooch-1.7.0-py3-none-any.whl (60 kB)
-Collecting prometheus-client==0.16.0
-  Using cached prometheus_client-0.16.0-py3-none-any.whl (122 kB)
-Collecting prompt-toolkit==3.0.38
-  Using cached prompt_toolkit-3.0.38-py3-none-any.whl (385 kB)
-Collecting psutil==5.9.5
-  Using cached psutil-5.9.5-cp36-abi3-win_amd64.whl (255 kB)
+Requirement already satisfied: pooch==1.7.0 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 78)) (1.7.0)
+Requirement already satisfied: prometheus-client==0.16.0 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 79)) (0.16.0)
+Requirement already satisfied: prompt-toolkit==3.0.38 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 80)) (3.0.38)
+Requirement already satisfied: psutil==5.9.5 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 81)) (5.9.5)
 Requirement already satisfied: pure-eval==0.2.2 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 82)) (0.2.2)
 Requirement already satisfied: pycparser==2.21 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 83)) (2.21)
-Collecting Pygments==2.15.1
-  Using cached Pygments-2.15.1-py3-none-any.whl (1.1 MB)
-Collecting pyOpenSSL==23.1.1
-  Using cached pyOpenSSL-23.1.1-py3-none-any.whl (57 kB)
+Requirement already satisfied: Pygments==2.15.1 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 84)) (2.15.1)
+Requirement already satisfied: pyOpenSSL==23.1.1 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 85)) (23.1.1)
 Requirement already satisfied: pyparsing==3.0.9 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 86)) (3.0.9)
 Requirement already satisfied: PyQt5==5.15.7 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 87)) (5.15.7)
 Requirement already satisfied: PyQt5-sip==12.11.0 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 88)) (12.11.0)
-Collecting pyrsistent==0.19.3
-  Using cached pyrsistent-0.19.3-cp310-cp310-win_amd64.whl (62 kB)
+Requirement already satisfied: pyrsistent==0.19.3 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 89)) (0.19.3)
 Requirement already satisfied: PySocks==1.7.1 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 90)) (1.7.1)
 Requirement already satisfied: python-dateutil==2.8.2 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 91)) (2.8.2)
-Collecting python-json-logger==2.0.7
-  Using cached python_json_logger-2.0.7-py3-none-any.whl (8.1 kB)
-Collecting pytz==2023.3
-  Using cached pytz-2023.3-py2.py3-none-any.whl (502 kB)
-Collecting pywin32==304
-  Using cached pywin32-304-cp310-cp310-win_amd64.whl (12.1 MB)
+Requirement already satisfied: python-json-logger==2.0.7 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 92)) (2.0.7)
+Requirement already satisfied: pytz==2023.3 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 93)) (2023.3)
+Requirement already satisfied: pywin32==304 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 94)) (304)
 Requirement already satisfied: pywinpty==2.0.10 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 95)) (2.0.10)
-Collecting PyYAML==6.0
-  Using cached PyYAML-6.0-cp310-cp310-win_amd64.whl (151 kB)
+Requirement already satisfied: PyYAML==6.0 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 96)) (6.0)
 Requirement already satisfied: pyzmq==25.0.2 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 97)) (25.0.2)
 Requirement already satisfied: requests==2.29.0 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 98)) (2.29.0)
-Collecting rfc3339-validator==0.1.4
-  Using cached rfc3339_validator-0.1.4-py2.py3-none-any.whl (3.5 kB)
-Collecting rfc3986-validator==0.1.1
-  Using cached rfc3986_validator-0.1.1-py2.py3-none-any.whl (4.2 kB)
+Requirement already satisfied: rfc3339-validator==0.1.4 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 99)) (0.1.4)
+Requirement already satisfied: rfc3986-validator==0.1.1 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 100)) (0.1.1)
 Requirement already satisfied: scikit-learn==1.2.2 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 101)) (1.2.2)
 Requirement already satisfied: scipy==1.10.1 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 102)) (1.10.1)
-Requirement already satisfied: seaborn==0.12.2 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 103)) (0.12.2)
-Collecting Send2Trash==1.8.2
-  Using cached Send2Trash-1.8.2-py3-none-any.whl (18 kB)
-Collecting setuptools==67.7.2
-  Using cached setuptools-67.7.2-py3-none-any.whl (1.1 MB)
-Collecting sip==6.7.9
-  Using cached sip-6.7.9-cp37-abi3-win_amd64.whl (609 kB)
+Requirement already satisfied: seaborn==0.12.2 in c:\users\gagno\appdata\roaming\python\python310\site-packages (from -r requirements.txt (line 103)) (0.12.2)
+Requirement already satisfied: Send2Trash==1.8.2 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 104)) (1.8.2)
+Requirement already satisfied: setuptools==67.7.2 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 105)) (67.7.2)
+Requirement already satisfied: sip==6.7.9 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 106)) (6.7.9)
 Requirement already satisfied: six==1.16.0 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 107)) (1.16.0)
-Collecting sniffio==1.3.0
-  Using cached sniffio-1.3.0-py3-none-any.whl (10 kB)
-Collecting soupsieve==2.3.2.post1
-  Using cached soupsieve-2.3.2.post1-py3-none-any.whl (37 kB)
-Collecting stack-data==0.6.2
-  Using cached stack_data-0.6.2-py3-none-any.whl (24 kB)
-Collecting statsmodels==0.13.5
-  Using cached statsmodels-0.13.5-cp310-cp310-win_amd64.whl (9.1 MB)
-Collecting terminado==0.15.0
-  Using cached terminado-0.15.0-py3-none-any.whl (16 kB)
-Collecting threadpoolctl==3.1.0
-  Using cached threadpoolctl-3.1.0-py3-none-any.whl (14 kB)
+Requirement already satisfied: sniffio==1.3.0 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 108)) (1.3.0)
+Requirement already satisfied: soupsieve==2.3.2.post1 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 109)) (2.3.2.post1)
+Requirement already satisfied: stack-data==0.6.2 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 110)) (0.6.2)
+Requirement already satisfied: statsmodels==0.13.5 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 111)) (0.13.5)
+Requirement already satisfied: terminado==0.15.0 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 112)) (0.15.0)
+Requirement already satisfied: threadpoolctl==3.1.0 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 113)) (3.1.0)
 Requirement already satisfied: tinycss2==1.2.1 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 114)) (1.2.1)
 Requirement already satisfied: toml==0.10.2 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 115)) (0.10.2)
 Requirement already satisfied: tomli==2.0.1 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 116)) (2.0.1)
-Collecting tornado==6.3
-  Using cached tornado-6.3-cp38-abi3-win_amd64.whl (427 kB)
-Collecting traitlets==5.9.0
-  Using cached traitlets-5.9.0-py3-none-any.whl (117 kB)
+Requirement already satisfied: tornado==6.3 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 117)) (6.3)
+Requirement already satisfied: traitlets==5.9.0 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 118)) (5.9.0)
 Requirement already satisfied: typing_extensions==4.5.0 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 119)) (4.5.0)
-Collecting tzdata==2023.3
-  Using cached tzdata-2023.3-py2.py3-none-any.whl (341 kB)
-Collecting unicodedata2==15.0.0
-  Using cached unicodedata2-15.0.0-cp310-cp310-win_amd64.whl (427 kB)
-Collecting uri-template==1.2.0
-  Using cached uri_template-1.2.0-py3-none-any.whl (10 kB)
+Requirement already satisfied: tzdata==2023.3 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 120)) (2023.3)
+Requirement already satisfied: unicodedata2==15.0.0 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 121)) (15.0.0)
+Requirement already satisfied: uri-template==1.2.0 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 122)) (1.2.0)
 Requirement already satisfied: urllib3==1.26.15 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 123)) (1.26.15)
-Collecting wcwidth==0.2.6
-  Using cached wcwidth-0.2.6-py2.py3-none-any.whl (29 kB)
-Collecting webcolors==1.13
-  Using cached webcolors-1.13-py3-none-any.whl (14 kB)
+Requirement already satisfied: wcwidth==0.2.6 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 124)) (0.2.6)
+Requirement already satisfied: webcolors==1.13 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 125)) (1.13)
 Requirement already satisfied: webencodings==0.5.1 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 126)) (0.5.1)
-Collecting websocket-client==1.5.1
-  Using cached websocket_client-1.5.1-py3-none-any.whl (55 kB)
-Collecting wheel==0.40.0
-  Using cached wheel-0.40.0-py3-none-any.whl (64 kB)
-Collecting widgetsnbextension==4.0.7
-  Using cached widgetsnbextension-4.0.7-py3-none-any.whl (2.1 MB)
+Requirement already satisfied: websocket-client==1.5.1 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 127)) (1.5.1)
+Requirement already satisfied: wheel==0.40.0 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 128)) (0.40.0)
+Requirement already satisfied: widgetsnbextension==4.0.7 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 129)) (4.0.7)
 Requirement already satisfied: win-inet-pton==1.1.0 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 130)) (1.1.0)
-Collecting zipp==3.15.0
-  Using cached zipp-3.15.0-py3-none-any.whl (6.8 kB)
+Requirement already satisfied: zipp==3.15.0 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 131)) (3.15.0)
+Requirement already satisfied: PyQt5-Qt5>=5.15.0 in c:\users\gagno\anaconda3\envs\oc-p3\lib\site-packages (from PyQt5==5.15.7->-r requirements.txt (line 87)) (5.15.2)
