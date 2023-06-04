@@ -24,15 +24,16 @@ Requirement already satisfied: defusedxml==0.7.1 in c:\users\papoun\anaconda3\en
 Requirement already satisfied: entrypoints==0.4 in c:\users\papoun\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 24)) (0.4)
 Requirement already satisfied: executing==1.2.0 in c:\users\papoun\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 25)) (1.2.0)
 Requirement already satisfied: fastjsonschema==2.16.3 in c:\users\papoun\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 26)) (2.16.3)
-Requirement already satisfied: flit_core==3.8.0 in c:\users\papoun\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 27)) (3.8.0)
+Collecting flit_core==3.8.0 (from -r requirements.txt (line 27))
+  Downloading flit_core-3.8.0-py3-none-any.whl (62 kB)
+                                              0.0/62.6 kB ? eta -:--:--     ------                                   10.2/62.6 kB ? eta -:--:--     ------------------                     30.7/62.6 kB 325.1 kB/s eta 0:00:01     -------------------------------------- 62.6/62.6 kB 556.7 kB/s eta 0:00:00
 Requirement already satisfied: fonttools==4.39.3 in c:\users\papoun\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 28)) (4.39.3)
 Requirement already satisfied: fqdn==1.5.1 in c:\users\papoun\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 29)) (1.5.1)
 Requirement already satisfied: idna==3.4 in c:\users\papoun\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 30)) (3.4)
 Requirement already satisfied: importlib-metadata==6.6.0 in c:\users\papoun\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 31)) (6.6.0)
 Requirement already satisfied: importlib-resources==5.12.0 in c:\users\papoun\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 32)) (5.12.0)
 Requirement already satisfied: ipykernel==6.22.0 in c:\users\papoun\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 33)) (6.22.0)
-Collecting ipython==8.13.1 (from -r requirements.txt (line 34))
-  Using cached ipython-8.13.1-py3-none-any.whl (797 kB)
+Requirement already satisfied: ipython==8.13.1 in c:\users\papoun\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 34)) (8.13.1)
 Requirement already satisfied: ipython-genutils==0.2.0 in c:\users\papoun\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 35)) (0.2.0)
 Requirement already satisfied: ipywidgets==8.0.6 in c:\users\papoun\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 36)) (8.0.6)
 Requirement already satisfied: isoduration==20.11.0 in c:\users\papoun\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 37)) (20.11.0)
@@ -42,7 +43,8 @@ Requirement already satisfied: joblib==1.2.0 in c:\users\papoun\anaconda3\envs\o
 Requirement already satisfied: json5==0.9.5 in c:\users\papoun\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 41)) (0.9.5)
 Requirement already satisfied: jsonpointer==2.3 in c:\users\papoun\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 42)) (2.3)
 Requirement already satisfied: jsonschema==4.17.3 in c:\users\papoun\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 43)) (4.17.3)
-Requirement already satisfied: jupyter_client==8.2.0 in c:\users\papoun\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 44)) (8.2.0)
+Collecting jupyter_client==8.2.0 (from -r requirements.txt (line 44))
+  Using cached jupyter_client-8.2.0-py3-none-any.whl (103 kB)
 Requirement already satisfied: jupyter_core==5.3.0 in c:\users\papoun\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 45)) (5.3.0)
 Requirement already satisfied: jupyter-events==0.6.3 in c:\users\papoun\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 46)) (0.6.3)
 Collecting jupyter_server==2.5.0 (from -r requirements.txt (line 47))
@@ -75,7 +77,8 @@ Requirement already satisfied: pickleshare==0.7.5 in c:\users\papoun\anaconda3\e
 Requirement already satisfied: Pillow==9.5.0 in c:\users\papoun\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 73)) (9.5.0)
 Requirement already satisfied: pip==23.1.2 in c:\users\papoun\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 74)) (23.1.2)
 Requirement already satisfied: pkgutil_resolve_name==1.3.10 in c:\users\papoun\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 75)) (1.3.10)
-Requirement already satisfied: platformdirs==3.5.0 in c:\users\papoun\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 76)) (3.5.0)
+Collecting platformdirs==3.5.0 (from -r requirements.txt (line 76))
+  Downloading platformdirs-3.5.0-py3-none-any.whl (15 kB)
 Requirement already satisfied: ply==3.11 in c:\users\papoun\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 77)) (3.11)
 Requirement already satisfied: pooch==1.7.0 in c:\users\papoun\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 78)) (1.7.0)
 Requirement already satisfied: prometheus-client==0.16.0 in c:\users\papoun\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 79)) (0.16.0)
@@ -110,14 +113,15 @@ Requirement already satisfied: six==1.16.0 in c:\users\papoun\anaconda3\envs\oc-
 Requirement already satisfied: sniffio==1.3.0 in c:\users\papoun\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 108)) (1.3.0)
 Requirement already satisfied: soupsieve==2.3.2.post1 in c:\users\papoun\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 109)) (2.3.2.post1)
 Requirement already satisfied: stack-data==0.6.2 in c:\users\papoun\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 110)) (0.6.2)
-Collecting statsmodels==0.13.5 (from -r requirements.txt (line 111))
-  Using cached statsmodels-0.13.5-cp39-cp39-win_amd64.whl (9.2 MB)
+Requirement already satisfied: statsmodels==0.13.5 in c:\users\papoun\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 111)) (0.13.5)
 Requirement already satisfied: terminado==0.15.0 in c:\users\papoun\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 112)) (0.15.0)
 Requirement already satisfied: threadpoolctl==3.1.0 in c:\users\papoun\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 113)) (3.1.0)
 Requirement already satisfied: tinycss2==1.2.1 in c:\users\papoun\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 114)) (1.2.1)
 Requirement already satisfied: toml==0.10.2 in c:\users\papoun\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 115)) (0.10.2)
 Requirement already satisfied: tomli==2.0.1 in c:\users\papoun\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 116)) (2.0.1)
-Requirement already satisfied: tornado==6.3 in c:\users\papoun\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 117)) (6.3)
+Collecting tornado==6.3 (from -r requirements.txt (line 117))
+  Downloading tornado-6.3-cp38-abi3-win_amd64.whl (427 kB)
+                                              0.0/427.9 kB ? eta -:--:--     -------------------------              286.7/427.9 kB 5.9 MB/s eta 0:00:01     -------------------------------------- 427.9/427.9 kB 6.7 MB/s eta 0:00:00
 Requirement already satisfied: traitlets==5.9.0 in c:\users\papoun\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 118)) (5.9.0)
 Requirement already satisfied: typing_extensions==4.5.0 in c:\users\papoun\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 119)) (4.5.0)
 Requirement already satisfied: tzdata==2023.3 in c:\users\papoun\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 120)) (2023.3)
@@ -132,12 +136,8 @@ Requirement already satisfied: wheel==0.40.0 in c:\users\papoun\anaconda3\envs\o
 Requirement already satisfied: widgetsnbextension==4.0.7 in c:\users\papoun\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 129)) (4.0.7)
 Requirement already satisfied: win-inet-pton==1.1.0 in c:\users\papoun\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 130)) (1.1.0)
 Requirement already satisfied: zipp==3.15.0 in c:\users\papoun\anaconda3\envs\oc-p3\lib\site-packages (from -r requirements.txt (line 131)) (3.15.0)
-Installing collected packages: statsmodels, ipython, jupyter_server
-  Attempting uninstall: statsmodels
-    Found existing installation: statsmodels 0.14.0
-    Uninstalling statsmodels-0.14.0:
-      Successfully uninstalled statsmodels-0.14.0
-  Attempting uninstall: ipython
-    Found existing installation: ipython 8.13.2
-    Uninstalling ipython-8.13.2:
-      Successfully uninstalled ipython-8.13.2
+Installing collected packages: tornado, platformdirs, flit_core, jupyter_client, jupyter_server
+  Attempting uninstall: tornado
+    Found existing installation: tornado 6.3.2
+    Uninstalling tornado-6.3.2:
+      Successfully uninstalled tornado-6.3.2
