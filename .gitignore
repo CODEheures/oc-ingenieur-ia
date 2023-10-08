@@ -2,3 +2,4 @@
 **/*.zip
 **/*.pptx
 **/*.pickle
+p6/projet/data/**/*
